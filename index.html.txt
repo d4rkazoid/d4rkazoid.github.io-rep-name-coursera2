@@ -1,0 +1,46 @@
+﻿<!Doctype html>
+<html>
+  <head>
+      <title>COURSERA MODULE 2 PROJECT</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet"  type="text/css" href="css/main.css">
+ 
+  </head>
+<body>
+   <h1>
+  High Level Computer Languages
+   </h1>
+     <div class="row">
+       <div class="col-lg-4 col-md-6 col-sm-12">
+        <section class="python">
+    <h3>PYTHON</h3>
+    <p>
+    Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.
+    </p>
+      </section>
+    </div>
+   
+  <div class="col-lg-4 col-md-6 col-sm-12">
+    <section class="java">
+      <h3>JAVA</h3>
+      <P>
+        Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA),meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. 
+        </p>
+    </section>
+       </div>
+       
+  <div class="col-lg-4 col-md-12 col-sm-12">
+    <section class="ruby">      
+      <h3>RUBY</h3>
+        <P>
+          Ruby is an interpreted, high-level, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan.Ruby is dynamically typed and uses garbage collection. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, Basic, and Lisp.
+          </p>
+    </section>
+       </div>
+       
+    
+   
+  </div>
+  </body>
+</html>
